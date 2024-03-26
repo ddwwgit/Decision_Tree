@@ -18,8 +18,8 @@ This repository contains a Jupyter notebook that guides you through the process 
 ### Prerequisites
 Before starting with the notebook, ensure you have the following packages installed:
 
-numpy: For matrix operations and numerical processing.
-matplotlib: For plotting graphs and visualizing the data.
+- numpy: For matrix operations and numerical processing.
+- matplotlib: For plotting graphs and visualizing the data.
 
 
 
